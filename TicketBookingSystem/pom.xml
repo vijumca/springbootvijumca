@@ -12,7 +12,8 @@
 	<artifactId>TicketBookingSystem</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>TicketBookingSystem</name>
-	<packaging>war</packaging>
+	<packaging>war</packaging><!-- lookup parent from repository -->
+	
 	<description>TicketBookingSystem</description>
 
 	<properties>
