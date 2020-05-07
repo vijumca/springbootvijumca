@@ -12,6 +12,7 @@
 	<artifactId>TicketBookingSystem</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>TicketBookingSystem</name>
+	<packaging>war</packaging>
 	<description>TicketBookingSystem</description>
 
 	<properties>
