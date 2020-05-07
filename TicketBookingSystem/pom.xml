@@ -54,5 +54,16 @@
 			</plugin>
 		</plugins>
 	</build>
+	
+	
+	 <distributionManagement>
+        <repository>
+              <id>myrepository</id>
+              <url>file:c:/repository/</url>
+        </repository>
+      </distributionManagement>
+      
+	
+
 
 </project>
