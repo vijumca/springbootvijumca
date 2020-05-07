@@ -16,6 +16,8 @@ import com.ticketbooking.example.service.TicketService;
 @RestController
 @RequestMapping(value="/api/tickets")
 //http://localhost:8080/api/tickets-> TicketController will be called.
+
+//Normal Test Code
 public class TicketController {
 
 		@Autowired
